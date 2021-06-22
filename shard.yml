@@ -8,7 +8,8 @@ crystal: 1.0.0
 
 dependencies:
   cadmium_classifier:
-    github: cadmiumcr/classifier
+    github: kates/classifier
+    branch: crystal-v1
 
 
 development_dependencies:
