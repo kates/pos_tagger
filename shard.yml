@@ -1,10 +1,10 @@
 name: cadmium_pos_tagger
-version: 0.2.0
+version: 0.3.0
 
 authors:
   - Rémy Marronnier <rmarronnier@gmail.com>
 
-crystal: 0.35.1
+crystal: 1.0.0
 
 dependencies:
   cadmium_classifier:
